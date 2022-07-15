@@ -33,8 +33,8 @@ Currently, I'm completing my BSc in Computer Science at Laurier <img src="images
 - Boba 🧋🍵
 - Virtual Reality 🥽    
 - 3D Printing, CNC Milling, & Laser Engraving 👷
-- Data Structures and Algorithms Challenges 🐱‍💻
-- Hackathons! 👨🏻‍💻
+- DS&A Challenges 🐱‍💻
+- Hackathons 👨🏻‍💻
 - Anime ⛩️ </br>
 
 ## What I'm doing now...

@@ -6,12 +6,12 @@ Inspired by my family & love for video games, I made my first text-based RPG in 
 
 Currently, I'm completing my BSc in Computer Science at Laurier <img src="images/flag-canada.png" width="21" height="21"/>
 
-### Skills Over The Years
+### Skills Over The Years 👷🛠️
 ##### Programming Languages
 <img align="left" src="./images/python.svg" width="28" height="28">
 <img align="left" src="./images/java.svg" width="28" height="28">
-<img align="left" src="./images/typescript.svg" width="28" height="28">
 <img align="left" src="./images/ethereum.svg" width="28" height="28">
+<img align="left" src="./images/typescript.svg" width="28" height="28">
 <img align="left" src="./images/javascript.svg" width="28" height="28">
 <img align="left" src="./images/html.svg" width="28" height="28">
 <img align="left" src="./images/css3.svg" width="28" height="28"><br/>

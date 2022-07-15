@@ -19,7 +19,9 @@ Currently, I'm completing my BSc in Computer Science at Laurier <img src="images
 #####  Tools/Frameworks
 <img align="left" src="./images/hardhat.png" width="28" height="28">
 <img align="left" src="./images/brownie.png" width="28" height="28">
+<img align="left" src="./images/ethers.svg" width="28" height="28">
 <img align="left" src="./images/react.svg" width="28" height="28">
+<img align="left" src="./images/nextjs.png" width="28" height="28">
 <img align="left" src="./images/node.png" width="28" height="28">
 <img align="left" src="./images/git.svg" width="28" height="28"><br/>
 

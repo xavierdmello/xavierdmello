@@ -19,7 +19,7 @@ Inspired by my family & love for video games, I made my first text-based RPG in 
 <img align="left" src="./images/brownie.png" width="28" height="28">
 <img align="left" src="./images/react.svg" width="28" height="28">
 <img align="left" src="./images/node.png" width="28" height="28">
-<img align="left" src="./images/git.svg" width="28" height="28">
+<img align="left" src="./images/git.svg" width="28" height="28"><br/>
 
 ##### IoT
 <img align="left" src="./images/arduino.svg" width="28" height="28">

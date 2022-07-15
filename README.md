@@ -9,22 +9,17 @@ Inspired by my family & love for video games, I made my first text-based RPG in 
 <img align="left" src="./images/python.svg" width="28" height="28">
 <img align="left" src="./images/java.svg" width="28" height="28">
 <img align="left" src="./images/typescript.svg" width="28" height="28">
-<img align="left" src="./images/solidity.svg" width="28" height="28">
+<img align="left" src="./images/ethereum.svg" width="28" height="28">
 <img align="left" src="./images/javascript.svg" width="28" height="28">
-
 <img align="left" src="./images/html.svg" width="28" height="28">
 <img align="left" src="./images/css3.svg" width="28" height="28"><br/>
 
 #####  Tools/Frameworks
-<img align="left" src="./images/django.svg" width="28" height="28">
-<img align="left" src="./images/android.svg" width="28" height="28">
+<img align="left" src="./images/hardhat.png" width="28" height="28">
+<img align="left" src="./images/brownie.png" width="28" height="28">
 <img align="left" src="./images/react.svg" width="28" height="28">
 <img align="left" src="./images/node.png" width="28" height="28">
-<img align="left" src="./images/graphql.svg" width="28" height="28">
-<img align="left" src="./images/flask.svg" width="28" height="28">
 <img align="left" src="./images/git.svg" width="28" height="28">
-<img align="left" src="./images/jira.svg" width="28" height="28">
-<img align="left" src="./images/confluence.svg" width="28" height="28"><br/>
 
 ##### IoT
 <img align="left" src="./images/arduino.svg" width="28" height="28">

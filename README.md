@@ -37,11 +37,11 @@ Currently, I'm completing my BSc in Computer Science at Laurier <img src="images
 - Hackathons 👨‍💻
 - Anime ⛩️ </br>
 
-### What I'm doing now...🔎
+### What I'm doing now... 🔎
 - Learning fullstack Web3 Development through [Patrick Collins' 32-hour course](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
 - Working on [Autolido](https://github.com/xavierdmello/Autolido), an app to automate earning yield on staked assets while minimizing price exposure
 
-### What I'm looking forward to doing next...🔮
+### What I'm looking forward to doing next... 🔮
 - Starting my next Web3 project
 - Improving my React & Frontend development skills
 - Creating personal website & blog

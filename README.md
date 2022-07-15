@@ -8,26 +8,26 @@ Currently, I'm completing my BSc in Computer Science at Laurier <img src="images
 
 ### Skills over the years 👷🛠️
 ##### Programming Languages
-<a href="https://www.python.org/" target="_blank"><img align="left" src="./images/python.svg" width="28" height="28"></a>
-<a href="https://www.java.com/en/" target="_blank"><img align="left" src="./images/java.svg" width="28" height="28"></a>
-<a href="https://soliditylang.org/" target="_blank"><img align="left" src="./images/ethereum.svg" width="28" height="28"></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" src="./images/typescript.svg" width="28" height="28"></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img align="left" src="./images/javascript.svg" width="28" height="28"></a>
-<a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img align="left" src="./images/html.svg" width="28" height="28"></a>
-<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img align="left" src="./images/css3.svg" width="28" height="28"></a><br/>
+<a href="https://www.python.org/"><img align="left" src="./images/python.svg" width="28" height="28"></a>
+<a href="https://www.java.com/en/"><img align="left" src="./images/java.svg" width="28" height="28"></a>
+<a href="https://soliditylang.org/"><img align="left" src="./images/ethereum.svg" width="28" height="28"></a>
+<a href="https://www.typescriptlang.org/"><img align="left" src="./images/typescript.svg" width="28" height="28"></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript"><img align="left" src="./images/javascript.svg" width="28" height="28"></a>
+<a href="https://en.wikipedia.org/wiki/HTML"><img align="left" src="./images/html.svg" width="28" height="28"></a>
+<a href="https://en.wikipedia.org/wiki/CSS"><img align="left" src="./images/css3.svg" width="28" height="28"></a><br/>
 
 #####  Tools/Frameworks
-<a href="https://hardhat.org/" target="_blank"><img align="left" src="./images/hardhat.png" width="28" height="28"></a>
-<a href="https://eth-brownie.readthedocs.io/en/stable/" target="_blank"><img align="left" src="./images/brownie.png" width="28" height="28"></a>
-<a href="https://docs.ethers.io/" target="_blank"><img align="left" src="./images/ethers.svg" width="28" height="28"></a>
-<a href="https://reactjs.org/" target="_blank"><img align="left" src="./images/react.svg" width="28" height="28"></a>
-<a href="https://nextjs.org/" target="_blank"><img align="left" src="./images/nextjs.png" width="28" height="28"></a>
-<a href="https://nodejs.org/en/" target="_blank"><img align="left" src="./images/node.png" width="28" height="28"></a>
-<a href="https://git-scm.com/" target="_blank"><img align="left" src="./images/git.svg" width="28" height="28"></a><br/>
+<a href="https://hardhat.org/"><img align="left" src="./images/hardhat.png" width="28" height="28"></a>
+<a href="https://eth-brownie.readthedocs.io/en/stable/"><img align="left" src="./images/brownie.png" width="28" height="28"></a>
+<a href="https://docs.ethers.io/"><img align="left" src="./images/ethers.svg" width="28" height="28"></a>
+<a href="https://reactjs.org/"><img align="left" src="./images/react.svg" width="28" height="28"></a>
+<a href="https://nextjs.org/"><img align="left" src="./images/nextjs.png" width="28" height="28"></a>
+<a href="https://nodejs.org/en/"><img align="left" src="./images/node.png" width="28" height="28"></a>
+<a href="https://git-scm.com/"><img align="left" src="./images/git.svg" width="28" height="28"></a><br/>
 
 ##### IoT
-<a href="https://www.arduino.cc/" target="_blank"><img align="left" src="./images/arduino.svg" width="28" height="28"></a>
-<a href="https://www.raspberrypi.com/" target="_blank"><img align="left" src="./images/raspberry-pi.svg" width="28" height="28"></a><br/>
+<a href="https://www.arduino.cc/"><img align="left" src="./images/arduino.svg" width="28" height="28"></a>
+<a href="https://www.raspberrypi.com/"><img align="left" src="./images/raspberry-pi.svg" width="28" height="28"></a><br/>
 
 ## Hobbies/Interests!
 - Boba 🍵

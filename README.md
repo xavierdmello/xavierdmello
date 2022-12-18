@@ -30,12 +30,10 @@ Currently, I'm completing my BSc in Computer Science at Laurier <img src="images
 <a href="https://www.raspberrypi.com/"><img align="left" src="./images/raspberry-pi.svg" width="28" height="28"></a><br/>
 
 ## Hobbies/Interests!
-- Boba 🍵
 - Virtual Reality 🥽    
-- 3D Printing, CNC Milling, & Laser Engraving 👷
+- 3D Printing 👷
 - DS&A Challenges 💪
-- Hackathons 👨‍💻
-- Anime ⛩️ </br>
+- Hackathons 👨‍💻 </br>
 
 ### What I'm doing now... 🔎
 - Learning fullstack Web3 Development through [Patrick Collins' 32-hour course](https://www.youtube.com/watch?v=gyMwXuJrbJQ)

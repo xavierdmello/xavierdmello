@@ -32,15 +32,14 @@ Currently, I'm completing my BSc in Computer Science at Laurier <img src="images
 ## Hobbies/Interests!
 - Virtual Reality 🥽    
 - 3D Printing 👷
-- DS&A Challenges 💪
+- Gym 💪
 - Hackathons 👨‍💻 </br>
 
 ### What I'm doing now... 🔎
-- Learning fullstack Web3 Development through [Patrick Collins' 32-hour course](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
 - Working on [Surge](https://github.com/xavierdmello/Surge), an app to automate earning yield on staked assets while minimizing price exposure
+- Working @ [UW Blockchain Club](https://www.uwblockchain.ca/) as the Director of Technology 
 
 ### What I'm looking forward to doing next... 🔮
-- Improving my React & Frontend development skills
 - Creating personal website & blog
 - Learning [Deep Learning & AI](https://course.fast.ai/)
 - Working professionally in the Web3 industry - Feel free to contact me about part time work & internships!
@@ -53,4 +52,4 @@ If you have any questions, feedback, or work/internship inquiries, I would love 
 
 Email: xaviermdmello@gmail.com
 
-Discord: holonova#4073
+Discord: tacocat#9293

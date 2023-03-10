@@ -36,7 +36,7 @@ Currently, I'm completing my BSc in Computer Science at Laurier <img src="images
 - Hackathons 👨‍💻 </br>
 
 ### What I'm doing now... 🔎
-- Hacking @ [Scaling Ethereum 2023](https://ethglobal.com/events/scaling2023)
+- On the [Wisteria Labs](https://www.github.com/Wisteria-Labs) team @ the [Scaling Ethereum 2023](https://ethglobal.com/events/scaling2023) hackathon
 - Working on [Surge](https://github.com/xavierdmello/Surge), an app to automate earning yield on staked assets while minimizing price exposure
 - Working @ [UW Blockchain Club](https://www.uwblockchain.ca/) as the Director of Technology
 

@@ -33,16 +33,14 @@ Currently, I'm completing my BSc in Computer Science at Laurier <img src="images
 - Virtual Reality 🥽    
 - 3D Printing 👷
 - Gym 💪
-- Hackathons 👨‍💻 </br>
 
 ### What I'm doing now... 🔎
-- Working on [Surge](https://github.com/xavierdmello/Surge), an app to automate earning yield on staked assets while minimizing price exposure
 - Working @ [UW Blockchain Club](https://www.uwblockchain.ca/) as the Director of Technology
+- Learning [Deep Learning & AI](https://course.fast.ai/)
 
 ### What I'm looking forward to doing next... 🔮
 - Creating personal website & blog
-- Learning [Deep Learning & AI](https://course.fast.ai/)
-- Working professionally in the Web3 industry - Feel free to contact me about part time work & internships!
+- Working professionally in the Web3 industry - Feel free to contact me about internships!
 
 ## Github Stats
 <img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xavierdmello&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/> <img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xavierdmello&hide=html&hide_border=true&card_width=320&layout=compact&langs_count=7&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff"/>

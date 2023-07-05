@@ -48,6 +48,8 @@ Currently, I'm completing my BSc in Computer Science at Laurier <img src="images
 ## Contact
 If you have any questions, feedback, or work/internship inquiries, I would love to chat!
 
-Email: xaviermdmello@gmail.com
+Email: hello@xavierdmello.com
 
-Discord: tacocat#9293
+Discord: tacocat9293
+
+Website: https://xavierdmello.com

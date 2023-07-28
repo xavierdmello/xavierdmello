@@ -37,9 +37,9 @@ Currently, I'm completing my BSc in Computer Science at Laurier <img src="images
 ### What I'm doing now... 🔎
 - Working @ [UW Blockchain Club](https://www.uwblockchain.ca/) as the Director of Technology
 - Learning [Deep Learning & AI](https://course.fast.ai/)
+- Creating my personal website: https://www.xavierdmello.com
 
 ### What I'm looking forward to doing next... 🔮
-- Creating personal website & blog
 - Working professionally in the Web3 industry - Feel free to contact me about internships!
 
 ## Github Stats

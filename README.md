@@ -11,7 +11,7 @@ Currently, I'm completing my BSc in Computer Science at Laurier <img src="images
 - My favorite project is [e-Transfer](https://ethglobal.com/showcase/e-transfer-kwwrz), a decentralized, on-chain version of the [real Interac e-Transfer](https://ethglobal.com/showcase/e-transfer-kwwrz) that I re-imagined for ETHGlobal New York.
 <p align="center">
   <a href="https://etransfer.xavierdmello.com">
-    <img src="https://storage.googleapis.com/ethglobal-api-production/projects%2Fkwwrz%2Fimages%2F2.png" width=500 height=500> 
+    <img src="https://storage.googleapis.com/ethglobal-api-production/projects%2Fkwwrz%2Fimages%2F2.png" width=400> 
   </a>
 </p>
 

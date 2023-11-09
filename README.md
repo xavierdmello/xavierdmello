@@ -1,10 +1,15 @@
 ## Hi there 👋, I'm Xavier D'Mello!
-Welcome to my Github! I'm an avid tech enthusiast, student, and developer with >3 years of programming experience.
+Welcome to my Github! I'm an avid tech enthusiast, student, and developer with >4 years of programming experience.
 
 ### A little bit about me... ✨
 Inspired by my family & love for video games, I made my first text-based RPG in C++ when I was 11. Ever since then, I've had a deep-rooted interest in all things STEM, going on to make android apps, tinker with hardware like [Arduino](https://www.arduino.cc/), and model with Blender, before finally settling on my current passion for blockchain apps & machine learning.  
 
 Currently, I'm completing my BSc in Computer Science at Laurier <img src="images/flag-canada.png" width="21" height="21"/>
+
+### Showcase 🚀
+- I won first place in ETHGlobal Waterloo 2023, a $250k crypto hackathon. Watch my [on-stage presentation](https://www.youtube.com/live/_I3kAYZ4_eo?si=Jd0ePwqvBpPYApn1&t=1341), and [check out the project here](https://ethglobal.com/showcase/token-rescue-buddy-bd0sd)!
+- My favorite project is [E-Transfer](https://ethglobal.com/showcase/e-transfer-kwwrz), a decentralized, on-chain version of the real Interac E-Transfer that I re-imagined for ETHGlobal New York 2023.
+
 
 ### Skills over the years 👷🛠️
 ##### Programming Languages

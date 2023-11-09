@@ -9,7 +9,13 @@ Currently, I'm completing my BSc in Computer Science at Laurier <img src="images
 ### Showcase 🚀
 - I won **first place** in ETHGlobal Waterloo, a $250k crypto hackathon. Watch my [on-stage presentation](https://www.youtube.com/live/_I3kAYZ4_eo?si=Jd0ePwqvBpPYApn1&t=1341), and [check out the project here](https://ethglobal.com/showcase/token-rescue-buddy-bd0sd)!
 - My favorite project is [e-Transfer](https://ethglobal.com/showcase/e-transfer-kwwrz), a decentralized, on-chain version of the [real Interac e-Transfer](https://ethglobal.com/showcase/e-transfer-kwwrz) that I re-imagined for ETHGlobal New York.
-- These projects have reallllllly fun live demos! **Try them out** - I'd love to hear what you think of them!
+<p align="center">
+  <a href="https://etransfer.xavierdmello.com">
+    <img src="https://storage.googleapis.com/ethglobal-api-production/projects%2Fkwwrz%2Fimages%2F2.png" width=500 height=500> 
+  </a>
+</p>
+
+- These projects have reallllllly fun live demos! **Try them out** - I'd love to hear what you think of them! Just click the **Live Demo** button on the showcase pages.
 
 
 ### Skills over the years 👷🛠️

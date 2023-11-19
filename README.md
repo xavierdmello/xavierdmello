@@ -1,13 +1,9 @@
-## Hi there 👋, I'm Xavier D'Mello!
-Welcome to my Github! I'm an avid tech enthusiast, student, and developer with >4 years of programming experience.
-
-### A little bit about me... ✨
-Inspired by my family & love for video games, I made my first text-based RPG in C++ when I was 11. Ever since then, I've had a deep-rooted interest in all things STEM, going on to make android apps, tinker with hardware like [Arduino](https://www.arduino.cc/), and model with Blender, before finally settling on my current passion for blockchain apps & machine learning.  
-
-Currently, I'm completing my BSc in Computer Science at Laurier <img src="images/flag-canada.png" width="21" height="21"/>
-
+<h3>Hey 👋</h3>
+  
+**i'm a university student and have been programming since I was 11 years old (big nerd... I know). I love to keep myself busy (maybe a bit too busy) with a bunch of extra curriculars and hackathon stuff.**
 ### Showcase 🚀
 - I won **first place** in ETHGlobal Waterloo, a $250k crypto hackathon. Watch my [on-stage presentation](https://www.youtube.com/live/_I3kAYZ4_eo?si=Jd0ePwqvBpPYApn1&t=1341), and [check out the project here](https://ethglobal.com/showcase/token-rescue-buddy-bd0sd)!
+- I also won first place in an [Entreprenuer First](https://www.joinef.com/) hackathon, a global startup accelerator that has backed companies now worth a cumulative $10 billion. [Check out the repo here.](https://github.com/xavierdmello/BeWoke)
 - My favorite project is [e-Transfer](https://ethglobal.com/showcase/e-transfer-kwwrz), a decentralized, on-chain version of the [real Interac e-Transfer](https://ethglobal.com/showcase/e-transfer-kwwrz) that I re-imagined for ETHGlobal New York.
 <p align="center">
   <a href="https://etransfer.xavierdmello.com">

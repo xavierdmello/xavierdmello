@@ -7,12 +7,16 @@
 - I made a dope program that cryptographically proves you own a Twitter handle without exposing any other information. Just a single ZKProof. What does that even mean? [Check out the repo here](https://github.com/xavierdmello/proof-of-twitter-sp1)
 - One of my favorite projects is [e-Transfer](https://ethglobal.com/showcase/e-transfer-kwwrz), a decentralized, on-chain version of the [real Interac e-Transfer](https://ethglobal.com/showcase/e-transfer-kwwrz) that I re-imagined for ETHGlobal New York.
 <p align="center">
-  <a href="https://etransfer.xavierdmello.com">
-    <img src="https://storage.googleapis.com/ethglobal-api-production/projects%2Fkwwrz%2Fimages%2F2.png" width=400> 
-  </a>
   <a href="https://devfolio.co/projects/befit-98df">
     <img src="https://github.com/xavierdmello/xavierdmello/assets/18093763/535f7fe5-691e-4d87-9580-8fb2115ff49e" width=400> 
   </a>
+  <a href="https://ethglobal.com/showcase/token-rescue-buddy-bd0sd">
+    <img src="https://storage.googleapis.com/ethglobal-api-production/projects%2Fbd0sd%2Fimages%2FUntitled.png" width=400> 
+  </a>
+  <a href="https://etransfer.xavierdmello.com">
+    <img src="https://storage.googleapis.com/ethglobal-api-production/projects%2Fkwwrz%2Fimages%2F2.png" width=400> 
+  </a>
+
   <a href="https://github.com/xavierdmello/proof-of-twitter-sp1">
     <img src="https://raw.githubusercontent.com/xavierdmello/proof-of-twitter-sp1/main/screenshot.png" width=400> 
   </a>

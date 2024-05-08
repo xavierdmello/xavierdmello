@@ -49,7 +49,7 @@
 - gym & cross-country 💪
 
 ### What I'm doing now... 🔎
-- Working @ [UW Blockchain Club](https://www.waterlooblockchain.ca/) as the Director of Technology
+- Working @ [Waterloo Blockchain](https://www.waterlooblockchain.ca/) as the Director of Technology
 - Studying PyTorch & other ML related things
 
 ### What I'm looking forward to doing next... 🔮

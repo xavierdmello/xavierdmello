@@ -2,17 +2,14 @@
   
 **i'm a university student and have been programming since I was 11 years old (big nerd... I know). I love to keep myself busy (maybe a bit too busy) with a bunch of extra curriculars and hackathon stuff.**
 ### Showcase 🚀
-- I won **first place** in ETHGlobal Waterloo, a $250k crypto hackathon. Watch my [on-stage presentation](https://www.youtube.com/live/_I3kAYZ4_eo?si=Jd0ePwqvBpPYApn1&t=1341), and [check out the project here](https://ethglobal.com/showcase/token-rescue-buddy-bd0sd)!
-- I also won first place in the [Entreprenuer First](https://www.joinef.com/) hackathon, a global startup accelerator that has backed companies now worth a cumulative $10 billion. [Check out the repo here.](https://github.com/xavierdmello/BeWoke)
-- My favorite project is [e-Transfer](https://ethglobal.com/showcase/e-transfer-kwwrz), a decentralized, on-chain version of the [real Interac e-Transfer](https://ethglobal.com/showcase/e-transfer-kwwrz) that I re-imagined for ETHGlobal New York.
+- I won first place with [BeFit](https://devfolio.co/projects/befit-98df) at ETHDenver, the world's largest crypto hackthon. 
+- I also won first place in ETHGlobal Waterloo, a $250k crypto hackathon. Watch my [on-stage presentation](https://www.youtube.com/live/_I3kAYZ4_eo?si=Jd0ePwqvBpPYApn1&t=1341), and [check out the project here](https://ethglobal.com/showcase/token-rescue-buddy-bd0sd)!
+- One of my favorite projects is [e-Transfer](https://ethglobal.com/showcase/e-transfer-kwwrz), a decentralized, on-chain version of the [real Interac e-Transfer](https://ethglobal.com/showcase/e-transfer-kwwrz) that I re-imagined for ETHGlobal New York.
 <p align="center">
   <a href="https://etransfer.xavierdmello.com">
     <img src="https://storage.googleapis.com/ethglobal-api-production/projects%2Fkwwrz%2Fimages%2F2.png" width=500> 
   </a>
 </p>
-
-- These projects have reallllllly fun live demos! **Try them out** - I'd love to hear what you think of them! Just click the **Live Demo** button on the showcase pages.
-
 
 ### Skills over the years 👷🛠️
 ##### Programming Languages
@@ -59,5 +56,3 @@ If you have any questions, feedback, or work/internship inquiries, I would love 
 Email: hello@xavierdmello.com
 
 Discord: tacocat9293
-
-Website: https://xavierdmello.com

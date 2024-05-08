@@ -42,9 +42,11 @@
 <a href="https://www.raspberrypi.com/"><img align="left" src="./images/raspberry-pi.svg" width="28" height="28"></a><br/>
 
 ## Hobbies/Interests!
-- Virtual Reality 🥽    
-- 3D Printing 👷
-- Gym 💪
+- casual sports with friends 🎾    
+- machine learning 👨‍💻
+- hackathons 🏆
+- reading 📖
+- gym & cross-country 💪
 
 ### What I'm doing now... 🔎
 - Working @ [UW Blockchain Club](https://www.waterlooblockchain.ca/) as the Director of Technology

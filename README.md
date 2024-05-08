@@ -49,8 +49,9 @@
 <a href="https://www.raspberrypi.com/"><img align="left" src="./images/raspberry-pi.svg" width="28" height="28"></a><br/>
 
 ## Hobbies/Interests!
-- casual sports with friends 🎾    
+- sports with friends 🎾
 - machine learning 👨‍💻
+- carpool karaoke  🎤
 - hackathons 🏆
 - reading 📖
 - gym & cross-country 💪

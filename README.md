@@ -31,7 +31,9 @@
 <a href="https://en.wikipedia.org/wiki/JavaScript"><img align="left" src="./images/javascript.svg" width="28" height="28"></a>
 <a href="https://en.wikipedia.org/wiki/HTML"><img align="left" src="./images/html.svg" width="28" height="28"></a>
 <a href="https://en.wikipedia.org/wiki/CSS"><img align="left" src="./images/css3.svg" width="28" height="28"></a>
-<a href="https://www.rust-lang.org/"><img align="left" src="https://github.com/xavierdmello/xavierdmello/assets/18093763/935c7e10-e6b6-4646-a30f-40f5e67a157c" width="28" height="28"></a><br/>
+<a href="https://www.rust-lang.org/"><img align="left" src="https://github.com/xavierdmello/xavierdmello/assets/18093763/d1b40763-0aa1-4fc4-9bae-d36de889f8d8" width="28" height="28"></a>
+<br/>
+
 
 #####  Tools/Frameworks
 <a href="https://hardhat.org/"><img align="left" src="./images/hardhat.png" width="28" height="28"></a>

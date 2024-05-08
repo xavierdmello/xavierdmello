@@ -4,13 +4,17 @@
 ### Showcase 🚀
 - I won **first place** at ETHDenver 2024, **the world's largest crypto hackathon**, with [BeFit](https://devfolio.co/projects/befit-98df). Watch the [winning presentation](https://www.youtube.com/watch?v=zh5fxWYE8W0).
 - I also won first place in ETHGlobal Waterloo, a $250k crypto hackathon. Watch my [on-stage presentation](https://www.youtube.com/live/_I3kAYZ4_eo?si=Jd0ePwqvBpPYApn1&t=1341), and [check out the project here](https://ethglobal.com/showcase/token-rescue-buddy-bd0sd)!
+- I made a dope program that verifies YOU own a Twitter handle, without logging in, exposing any sensitive information. Just a single ZKProof. What does that even mean? (Check out the repo here)[https://github.com/xavierdmello/proof-of-twitter-sp1]
 - One of my favorite projects is [e-Transfer](https://ethglobal.com/showcase/e-transfer-kwwrz), a decentralized, on-chain version of the [real Interac e-Transfer](https://ethglobal.com/showcase/e-transfer-kwwrz) that I re-imagined for ETHGlobal New York.
 <p align="center">
   <a href="https://etransfer.xavierdmello.com">
-    <img src="https://storage.googleapis.com/ethglobal-api-production/projects%2Fkwwrz%2Fimages%2F2.png" width=500> 
+    <img src="https://storage.googleapis.com/ethglobal-api-production/projects%2Fkwwrz%2Fimages%2F2.png" width=400> 
   </a>
   <a href="https://devfolio.co/projects/befit-98df">
-    <img src="https://github.com/xavierdmello/xavierdmello/assets/18093763/535f7fe5-691e-4d87-9580-8fb2115ff49e" width=500> 
+    <img src="https://github.com/xavierdmello/xavierdmello/assets/18093763/535f7fe5-691e-4d87-9580-8fb2115ff49e" width=400> 
+  </a>
+  <a href="https://github.com/xavierdmello/proof-of-twitter-sp1">
+    <img src="https://raw.githubusercontent.com/xavierdmello/proof-of-twitter-sp1/main/screenshot.png" width=400> 
   </a>
 </p>
 

@@ -31,7 +31,7 @@
 <a href="https://en.wikipedia.org/wiki/JavaScript"><img align="left" src="./images/javascript.svg" width="28" height="28"></a>
 <a href="https://en.wikipedia.org/wiki/HTML"><img align="left" src="./images/html.svg" width="28" height="28"></a>
 <a href="https://en.wikipedia.org/wiki/CSS"><img align="left" src="./images/css3.svg" width="28" height="28"></a>
-<a href="https://www.rust-lang.org/"><img align="left" src="https://github.com/xavierdmello/xavierdmello/assets/18093763/d1b40763-0aa1-4fc4-9bae-d36de889f8d8" width="28" height="28"></a>
+<a href="https://www.rust-lang.org/"><img align="left" src="https://github.com/xavierdmello/xavierdmello/assets/18093763/d1b40763-0aa1-4fc4-9bae-d36de889f8d8" width="20" height="28"></a>
 <br/>
 
 
@@ -42,7 +42,8 @@
 <a href="https://reactjs.org/"><img align="left" src="./images/react.svg" width="28" height="28"></a>
 <a href="https://nextjs.org/"><img align="left" src="./images/nextjs.png" width="28" height="28"></a>
 <a href="https://nodejs.org/en/"><img align="left" src="./images/node.png" width="28" height="28"></a>
-<a href="https://git-scm.com/"><img align="left" src="./images/git.svg" width="28" height="28"></a><br/>
+<a href="https://pytorch.org/"><img align="left" src="https://github.com/xavierdmello/xavierdmello/assets/18093763/32f5a9e9-f6b7-428e-b8d0-3f6b56ba593a" width="28" height="28"></a><br/>
+
 
 ##### IoT
 <a href="https://www.arduino.cc/"><img align="left" src="./images/arduino.svg" width="28" height="28"></a>

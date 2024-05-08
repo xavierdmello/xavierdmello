@@ -2,7 +2,7 @@
   
 **i'm a university student and have been programming since I was 11 years old (big nerd... I know). I love to keep myself busy (maybe a bit too busy) with a bunch of extra curriculars and hackathon stuff.**
 ### Showcase 🚀
-- I won first place with [BeFit](https://devfolio.co/projects/befit-98df) at ETHDenver, the world's largest crypto hackthon. 
+- I won **first place** at ETHDenver 2024, **the world's largest crypto hackathon**, with [BeFit](https://devfolio.co/projects/befit-98df).
 - I also won first place in ETHGlobal Waterloo, a $250k crypto hackathon. Watch my [on-stage presentation](https://www.youtube.com/live/_I3kAYZ4_eo?si=Jd0ePwqvBpPYApn1&t=1341), and [check out the project here](https://ethglobal.com/showcase/token-rescue-buddy-bd0sd)!
 - One of my favorite projects is [e-Transfer](https://ethglobal.com/showcase/e-transfer-kwwrz), a decentralized, on-chain version of the [real Interac e-Transfer](https://ethglobal.com/showcase/e-transfer-kwwrz) that I re-imagined for ETHGlobal New York.
 <p align="center">

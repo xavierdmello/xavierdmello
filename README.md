@@ -58,8 +58,8 @@
 - gym & cross-country 💪
 
 ### What I'm doing now... 🔎
-- swe @ [Succinct](https://succinct.xyz/)
-- studying PyTorch & other ML related things
+- Software Engineering @ [Succinct Labs](https://succinct.xyz/)
+- Studying PyTorch & other ML related things
 
 ### What I'm looking forward to doing next... 🔮
 - Getting an internship for Fall 2025 - feel free to reach out if you thought my github was cool!

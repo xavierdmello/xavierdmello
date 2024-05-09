@@ -58,7 +58,7 @@
 - gym & cross-country 💪
 
 ### What I'm doing now... 🔎
-- Software Engineering @ [Succinct Labs](https://succinct.xyz/)
+- Software Engineering @ [Succinct Labs](https://succinct.xyz/) for Summer & Fall 2024
 - Studying PyTorch & other ML related things
 
 ### What I'm looking forward to doing next... 🔮

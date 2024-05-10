@@ -4,7 +4,7 @@
 ### Showcase 🚀
 - I won **first place** at ETHDenver 2024, **the world's largest crypto hackathon**, with [BeFit](https://devfolio.co/projects/befit-98df). Watch the [winning presentation](https://www.youtube.com/watch?v=zh5fxWYE8W0).
 - I also won first place in ETHGlobal Waterloo, a $250k crypto hackathon. Watch my [on-stage presentation](https://www.youtube.com/live/_I3kAYZ4_eo?si=Jd0ePwqvBpPYApn1&t=1341), and [check out the project here](https://ethglobal.com/showcase/token-rescue-buddy-bd0sd)!
-- I made a dope program that cryptographically proves you own a Twitter handle without exposing any other information. Just a single ZKProof. What does that even mean? [Check out the repo here](https://github.com/xavierdmello/proof-of-twitter-sp1)
+- I made a dope program that cryptographically proves you own a Twitter handle without exposing any other information. Just a single ZKProof. What does that even mean? [Check out the repo here!](https://github.com/xavierdmello/proof-of-twitter-sp1)
 
 <p align="center">
   <a href="https://devfolio.co/projects/befit-98df">

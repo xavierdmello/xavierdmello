@@ -22,7 +22,7 @@
   </a>
 
   <a href="https://github.com/xavierdmello/PacRoyale">
-    <img src="https://github.com/user-attachments/assets/f277b63a-75c8-4683-868a-db838788949d" width=400> 
+    <img src="https://github.com/user-attachments/assets/f277b63a-75c8-4683-868a-db838788949d" width=600> 
   </a>
 </p>
 

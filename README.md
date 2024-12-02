@@ -20,6 +20,10 @@
   <a href="https://github.com/xavierdmello/proof-of-twitter-sp1">
     <img src="https://raw.githubusercontent.com/xavierdmello/proof-of-twitter-sp1/main/screenshot.png" width=400> 
   </a>
+
+  <a href="https://github.com/xavierdmello/PacRoyale">
+    <img src="https://github.com/user-attachments/assets/f277b63a-75c8-4683-868a-db838788949d" width=400> 
+  </a>
 </p>
 
 ### Skills over the years 👷🛠️

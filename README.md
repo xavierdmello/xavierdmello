@@ -3,8 +3,7 @@
 **i'm a university student and have been programming since I was 11 years old (big nerd... I know). I love to keep myself busy (maybe a bit too busy) with a bunch of extra curriculars and hackathon stuff.**
 ### Showcase 🚀
 - I won **first place** at ETHDenver 2024 **AND** 2025, **the world's largest crypto hackathon**, with [BeFit](https://devfolio.co/projects/befit-98df) and [FaceBuddy](https://devfolio.co/projects/facebuddy-0154) respectively **($35k in prizes)**. Watch the winning presentations: [BeFit Presentation](https://www.youtube.com/watch?v=zh5fxWYE8W0) & [FaceBuddy Presentation](https://www.youtube.com/watch?v=RnsvtOcVArA).
-- I also won first place in ETHGlobal Waterloo, a $250k crypto hackathon. Watch my [on-stage presentation](https://www.youtube.com/live/_I3kAYZ4_eo?si=Jd0ePwqvBpPYApn1&t=1341), and [check out the project here](https://ethglobal.com/showcase/token-rescue-buddy-bd0sd)!
-- I made a dope program that cryptographically proves you own a Twitter handle without exposing any other information. Just a single ZKProof. What does that even mean? [Check out the repo here!](https://github.com/xavierdmello/proof-of-twitter-sp1)
+- I also won first place in ETHGlobal Waterloo with a tool that recovers your lost tokens! Watch my [on-stage presentation](https://www.youtube.com/live/_I3kAYZ4_eo?si=Jd0ePwqvBpPYApn1&t=1341), and [check out the project here](https://ethglobal.com/showcase/token-rescue-buddy-bd0sd)!
 
 <p align="center">
   <a href="https://devfolio.co/projects/befit-98df">
